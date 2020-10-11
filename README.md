@@ -1,0 +1,5 @@
+Exercices from Mosh Hamedani (https://codewithmosh.com)
+
+1- Write a program that reads a text file and displays the number of words.
+
+2- Write a program that reads a text file and displays the longest word in the file.
